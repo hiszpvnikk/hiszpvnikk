@@ -1,11 +1,6 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 <br>
 <br>
-<a href="https://tekken.dev">
-    <img src="https://img.shields.io/badge/-tekken.dev-231b1a?style=for-the-badge&logo=aboutdotme&logoColor=f5c37c"/>
-</a>
-<br>
-<br>
 <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/-LUA-00007C?style=flat&logo=lua&logoColor=white"/>
 <br>
