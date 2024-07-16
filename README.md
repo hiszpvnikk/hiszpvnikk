@@ -1,6 +1,6 @@
 # snk
 
-Generates a snake game from a github user contributions graph
+Front-End 💕 Back-End Developer
 
 <picture>
   <source
@@ -16,9 +16,6 @@ Generates a snake game from a github user contributions graph
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-Pull a github user's contribution graph.
-Make it a snake Game, generate a snake path where the cells get eaten in an orderly fashion.
 
 <br>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
