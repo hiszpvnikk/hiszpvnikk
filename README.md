@@ -4,7 +4,8 @@
 </p>
 
 <h3 align="left">Moi synowie 👶</h3>
-<img src="https://img.shields.io/badge/-LUA-00007C?style=flat&logo=lua&logoColor=white"/><br><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-LUA-00007C?style=flat&logo=lua&logoColor=white"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 <br>
 
 <picture>
