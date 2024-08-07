@@ -1,12 +1,12 @@
 <h1 align="center">🤵 .hiszpvn</h1>
 <h3 align="center">Front-End 💕 Back-End Developer</h3>
 
-</p>
-
 <h3 align="left">Moi synowie 👶</h3>
-<img src="https://img.shields.io/badge/-LUA-00007C?style=flat&logo=lua&logoColor=white"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-<br>
+<div style="display: flex; align-items: center;">
+  <img src="https://img.shields.io/badge/-LUA-00007C?style=flat&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+</div>
+
 
 <picture>
   <source
