@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Node.js-026E00?style=flat&logo=nodedotjs&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white"/>
 </div>
 
 
